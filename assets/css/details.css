@@ -68,3 +68,6 @@ transform: translateX(0);
 .cta:active {
 transform: scale(0.95);
 }
+#github{
+  color: #ffffff;
+}
